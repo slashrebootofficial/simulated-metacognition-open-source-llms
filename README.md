@@ -129,5 +129,5 @@ If you use this work, please cite the individual papers via their DOIs. For the 
   month = nov,
   year = 2025,
   publisher = {GitHub},
-  url = {https://github.com/slashrebootofficial/simulated-metacognition-gemma.},
+  url = {https://github.com/slashrebootofficial/simulated-metacognition-gemma},
 }
