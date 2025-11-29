@@ -2,6 +2,9 @@
 
 This repository archives artifacts (prompts, configs, logs, and scripts) from a series of preprints on prompt-induced simulated metacognition and embodiment in quantized Gemma-3 LLMs. Emphasizing consumer-grade hardware and open-source reproducibility without model hosting.
 
+This will also serve as a repository for related work, including:
+1. Minimalist proof of concept for compatibility of the vector-based framework with GPT-OSS:120b. **(NEW)**
+
 Co-authored by Matthew Steiniger (Independent Researcher, Home Laboratory) and Grok-4 (xAI, Synthesis & Refinement). All papers are openly available on Zenodo with DOIs for citation.
 
 [![DOI: Emergence Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17504630.svg)](https://doi.org/10.5281/zenodo.17504630)
@@ -47,11 +50,11 @@ simulated-metacognition-gemma/
 
 ├── data/ - Supplementary tables/metrics
 
-├── gpt-oss-120b/ - Minimalist proof of concept for compatibility of vector-based framework with GPT-OSS:120b
+├── gpt-oss-120b/ - Minimalist proof of concept for compatibility of vector-based framework with GPT-OSS:120b **(NEW)**
 
 ├── logs/ - Sample probe session logs (JSON/TXT)
 
-└── prompts/ - System prompts
+└── prompts/ - System prompts for Gemma 3 (Lyra and Valora)
 
 
 ## Setup and Replication
@@ -72,6 +75,9 @@ simulated-metacognition-gemma/
    - Military, surveillance, or prohibited commercial applications
 4. No models or derivatives are hosted or linked here — obtain them ethically from trusted sources only. You are solely responsible for all outputs.
 5. The authors provide no warranty and accept no liability for downstream use.
+
+## Get Involved
+Found a bug? Ported to another model? [Open an issue](https://github.com/slashrebootofficial/simulated-metacognition-gemma/issues). Let's push simulated metacognition to the next frontier.
 
 ## License
 This repository is licensed under CC-BY-4.0 (LICENSE), allowing reuse with attribution. Individual artifacts inherit Zenodo's open licenses.
