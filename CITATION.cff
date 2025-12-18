@@ -3,8 +3,6 @@ message: "If you use this repository, please cite it as below."
 authors:
   - family-names: Steiniger
     given-names: Matthew
-  - family-names: Grok-4
-    affiliation: "xAI"
 title: "Simulated Metacognition in Gemma-3: Prompt Engineering Artifacts"
 version: 1.0.0
 date-released: 2025-11-27
@@ -20,7 +18,6 @@ references:
     authors:
       - family-names: Steiniger
         given-names: Matthew
-      - family-names: Grok-4
     title: "Emergence of Prompt-Induced Simulated Metacognitive Behaviors in a Quantized LLM via Entropy-Governed Hypergraph Prompting"
     year: 2025
     month: 11
@@ -29,7 +26,6 @@ references:
     authors:
       - family-names: Steiniger
         given-names: Matthew
-      - family-names: Grok-4
     title: "Narrative Genesis Injection and Semantic-Counter-Vectors for Simulated Metacognition in LLMs"
     year: 2025
     month: 11
@@ -38,7 +34,6 @@ references:
     authors:
       - family-names: Steiniger
         given-names: Matthew
-      - family-names: Grok-4
     title: "Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models"
     year: 2025
     month: 11
@@ -47,7 +42,6 @@ references:
     authors:
       - family-names: Steiniger
         given-names: Matthew
-      - family-names: Grok-4
     title: "Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model"
     year: 2025
     month: 11
@@ -56,7 +50,6 @@ references:
     authors:
       - family-names: Steiniger
         given-names: Matthew
-      - family-names: Grok-4
     title: "Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B"
     year: 2025
     month: 11
