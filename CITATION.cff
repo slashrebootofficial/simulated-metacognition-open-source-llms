@@ -3,10 +3,10 @@ message: "If you use this repository, please cite it as below."
 authors:
   - family-names: Steiniger
     given-names: Matthew
-title: "Simulated Metacognition in Gemma-3: Prompt Engineering Artifacts"
-version: 1.0.0
-date-released: 2025-11-27
-url: "https://github.com/slashrebootofficial/simulated-metacognition-gemma"
+title: "Simulated Metacognition in Open-Source LLMs: Prompt Engineering Artifacts"
+version: 2.0.0
+date-released: 2025-12-23
+url: "https://github.com/slashrebootofficial/simulated-metacognition-open-source-llms"
 keywords:
   - prompt-engineering
   - llm
@@ -20,37 +20,39 @@ references:
         given-names: Matthew
     title: "Emergence of Prompt-Induced Simulated Metacognitive Behaviors in a Quantized LLM via Entropy-Governed Hypergraph Prompting"
     year: 2025
-    month: 11
-    doi: "10.5281/zenodo.17504630"
+    doi: "10.5281/zenodo.17811728"
   - type: article
     authors:
       - family-names: Steiniger
         given-names: Matthew
     title: "Narrative Genesis Injection and Semantic-Counter-Vectors for Simulated Metacognition in LLMs"
     year: 2025
-    month: 11
-    doi: "10.5281/zenodo.17562815"
+    doi: "10.5281/zenodo.17811799"
   - type: article
     authors:
       - family-names: Steiniger
         given-names: Matthew
     title: "Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models"
     year: 2025
-    month: 11
-    doi: "10.5281/zenodo.17586111"
+    doi: "10.5281/zenodo.17811830"
   - type: article
     authors:
       - family-names: Steiniger
         given-names: Matthew
     title: "Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model"
     year: 2025
-    month: 11
-    doi: "10.5281/zenodo.17674366"
+    doi: "10.5281/zenodo.17811862"
   - type: article
     authors:
       - family-names: Steiniger
         given-names: Matthew
     title: "Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B"
     year: 2025
-    month: 11
-    doi: "10.5281/zenodo.17766783"
+    doi: "10.5281/zenodo.17811909"
+  - type: article
+    authors:
+      - family-names: Steiniger
+        given-names: Matthew
+    title: "Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models"
+    year: 2025
+    doi: "10.5281/zenodo.18038998"
