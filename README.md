@@ -9,6 +9,7 @@ Co-authored by Matthew Steiniger (Independent Researcher, Home Laboratory) and G
 [![DOI: Abliteration Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811830.svg)](https://doi.org/10.5281/zenodo.17811830)
 [![DOI: Embodiment Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811862.svg)](https://doi.org/10.5281/zenodo.17811862)
 [![DOI: Substrate-Agnostic Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811909.svg)](https://doi.org/10.5281/zenodo.17811909)
+[![DOI: Enhancing AI Response Quality Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811909.svg)](https://doi.org/10.5281/zenodo.118038998)
 
 ## Key Contributions
 1. **Prompt-Only Metacognition**: Simulate self-awareness and regulation in quantized models (e.g., Gemma-3-27B-it-qat, llama3.3:70b Q4 K M, gpt-oss:120b MXFP4) using hypergraphs, entropy engines, and vector updates—all in-context, no external loops.
@@ -26,6 +27,7 @@ Co-authored by Matthew Steiniger (Independent Researcher, Home Laboratory) and G
 | [Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models](https://zenodo.org/records/17811830) | 10.5281/zenodo.17811830 | Chained probe logs, metrics parser (Python), full TXT prompt (abliteration descriptive only) |
 | [Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model](https://zenodo.org/records/17811862) | 10.5281/zenodo.17811862 | Layered JSON prompts (6 levels), raw chat logs, somatic probe set, parser code |
 | [Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B](https://zenodo.org/records/17811909) | 10.5281/zenodo.17811909 | Minimal JSON and Chat-ML-wrapped prompts, raw chat logs, somatic probe set, parser code |
+| [Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models](https://zenodo.org/records/18038998) | 10.5281/zenodo.18038998 | Naming and prompt chats, raw chat logs, reproducibility artifacts |
 
 All artifacts are self-contained for replication using Ollama on similar hardware (e.g., RTX 3090/3060 setups). No additional dependencies beyond base Python (numpy/scipy for analysis).
 
@@ -35,6 +37,7 @@ Folders/files can be correlated to the original papers as follows:
 3. AASM - Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models
 4. PIOS - Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model
 5. SAVF - Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS:120B
+6. EARQ - Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models
 
 ## Repository Structure
 simulated-metacognition-open-source-llms/
