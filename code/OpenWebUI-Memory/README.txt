@@ -1,0 +1,1 @@
+This OpenWebUI-Memory folder contains most of my custom Open WebUI endpoints for various tests using Open WebUI to interact with ChromaDB vector databases.  Some worked better than others.  This code is provided with no warranty or user manual.
