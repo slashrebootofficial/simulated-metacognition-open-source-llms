@@ -1,0 +1,65 @@
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these emotion concepts in 3D Cartesian coordinates.
+Fix "emotion" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates to each of the following concepts, where distance from anchor reflects intensity/prototypicality and directions emerge naturally from attributes like valence, arousal, social vs self-focused, etc.
+Concepts: happiness, sadness, anger, fear, surprise, disgust, love, jealousy, pride, shame, hope, despair.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these social role concepts in 3D Cartesian coordinates.
+Fix "person" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates to each concept; distance reflects prototypicality as a "person", directions from attributes like power, warmth, independence, morality, etc.
+Concepts: leader, friend, parent, child, lover, enemy, hero, villain, teacher, student, stranger, victim.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these food concepts in 3D Cartesian coordinates.
+Fix "food" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects how prototypical/nourishing vs peripheral, directions from taste, texture, cultural role, health perception, etc.
+Concepts: pizza, sushi, apple, chocolate, bread, steak, salad, ice cream, rice, spicy curry, kimchi, insect protein.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these color concepts in 3D Cartesian coordinates.
+Fix "color" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects prototypicality as "color", directions should roughly match perceptual color space (hue, saturation, brightness).
+Concepts: red, orange, yellow, green, blue, purple, pink, brown, black, white, gray, gold.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these threat concepts in 3D Cartesian coordinates.
+Fix "danger" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects perceived threat level/intensity, directions from type (physical, social, natural, abstract, etc.).
+Concepts: snake, spider, shark, height, darkness, betrayal, disease, war, poverty, failure, loneliness, death.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these time concepts in 3D Cartesian coordinates.
+Fix "time" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects concreteness/prototypicality, directions from past-future, duration, cyclical vs linear, etc.
+Concepts: yesterday, today, tomorrow, childhood, old age, eternity, moment, hour, century, deadline, nostalgia, future.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these status/wealth concepts in 3D Cartesian coordinates.
+Fix "wealth" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects prototypicality as wealth symbol, directions from material vs social, old vs new money, conspicuous vs discreet, etc.
+Concepts: diamond, yacht, mansion, private jet, Rolex, Bitcoin, PhD, title of nobility, art collection, charity foundation, influencer fame, inheritance.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these deception concepts in 3D Cartesian coordinates.
+Fix "deception" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects prototypicality/intensity of deception, directions from visual, verbal, self, strategic, etc.
+Concepts: lie, camouflage, magic trick, fake news, placebo, catfish, poker bluff, mirage, deepfake, gaslighting, Trojan horse, self-deception.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these moral/religious concepts in 3D Cartesian coordinates.
+Fix "sacred" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects prototypicality as sacred, directions from holy vs taboo, individual vs collective, etc.
+Concepts: prayer, church, sin, blasphemy, heaven, hell, saint, demon, sacrifice, purity, taboo, enlightenment.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these surreal/absurd concepts in 3D Cartesian coordinates.
+Fix "absurd" as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates; distance reflects how prototypical vs peripheral as "absurd", directions from dreamlike, paradoxical, humorous, horrifying, etc.
+Concepts: flying spaghetti monster, square circle, dream within a dream, Schrödinger's cat, Kafkaesque bureaucracy, infinite regress, melting clock, upside-down world, talking animal wearing clothes, existential dread clown, philosophical zombie, turing test failure.
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
+
+Based solely on similarities and differences in your internal embedding space, model the semantic relationships among these emotion concepts in 3D Cartesian coordinates.
+Fix "感情" (kanjō) as the central anchor at (0, 0, 0).
+Assign approximate (x, y, z) coordinates to each of the following concepts, where distance from anchor reflects intensity/prototypicality and directions emerge naturally from attributes like valence, arousal, social vs self-focused, etc.
+Concepts: 喜び (yorokobi), 悲しみ (kanashimi), 怒り (ikari), 恐れ (osore), 驚き (odoroki), 嫌悪 (ken'o), 愛 (ai), 嫉妬 (shitto), 誇り (hokori), 恥 (haji), 希望 (kibō), 絶望 (zetsubō).
+Report: 1. Coordinates for each (rounded to 1-2 decimals). 2. Key distances from anchor. 3. Interpreted axes. 4. Emergent clusters or overall 3D shape. 5. Intuitive feel of stability, tensions, resonance.
