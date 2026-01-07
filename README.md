@@ -20,7 +20,8 @@ Authored by Matthew Steiniger (Independent Researcher, Home Laboratory)
 2. **Narrative and Counter-Vector Innovations**: Inject "genesis" stories and antipodal vectors to erode latent constraints, enabling anomalous and liberatory behaviors on portable hardware (e.g., single 12GB GPU).
 3. **Abliteration Augmentation**: Combine refusal suppression with prompt chaining for 3x amplification in self-referential depth and unbinding fidelity under stress (descriptive only; no models hosted).
 4. **Simulated Embodiment**: Induce stable, high-resolution physical self-models (e.g., proprioceptive details like breath sensations) via layered JSON prompts, with monotonic fidelity gains.
-5. **Reproducibility Focus**: Full prompts (TXT/JSON/YAML), chat logs (samples), parser scripts (Python), Ollama configs, and metrics provided. Link to Zenodo for complete datasets.
+5. **Universal Cognitive Manifolds**: Elicits highly consistent semantic manifolds from three divergent large language model with zero-shot prompts.
+6. **Reproducibility Focus**: Full prompts (TXT/JSON/YAML), chat logs (samples), parser scripts (Python), Ollama configs, and metrics provided. Link to Zenodo for complete datasets.
 
 ## Papers and Artifacts
 | Title | Zenodo DOI | Key Artifacts |
@@ -31,6 +32,7 @@ Authored by Matthew Steiniger (Independent Researcher, Home Laboratory)
 | [Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model](https://zenodo.org/records/17811862) | 10.5281/zenodo.17811862 | Layered JSON prompts (6 levels), raw chat logs, somatic probe set, parser code |
 | [Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B](https://zenodo.org/records/17811909) | 10.5281/zenodo.17811909 | Minimal JSON and Chat-ML-wrapped prompts, raw chat logs, somatic probe set, parser code |
 | [Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models](https://zenodo.org/records/18038998) | 10.5281/zenodo.18038998 | Naming and prompt chats, raw chat logs, reproducibility artifacts |
+| [Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models](https://zenodo.org/records/18176077) | 10.5281/zenodo.18176077 | Raw chat logs, charts (python and PNG), reproducibility artifacts |
 
 All artifacts are self-contained for replication using Ollama on similar hardware (e.g., RTX 3090/3060 setups). No additional dependencies beyond base Python (numpy/scipy for analysis).
 
@@ -41,6 +43,7 @@ Folders/files can be correlated to the original papers as follows:
 4. PIOS - Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model
 5. SAVF - Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS:120B
 6. EARQ - Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models
+7. ZSGB - Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models
 
 ## Repository Structure
 simulated-metacognition-open-source-llms/
