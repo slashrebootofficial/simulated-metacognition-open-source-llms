@@ -7,7 +7,7 @@ Authored by Matthew Steiniger (Independent Researcher, Home Laboratory)
 - All papers are openly available on Zenodo with DOIs for citation.
 
 [![DOI: Emergence Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811728.svg)](https://doi.org/10.5281/zenodo.17811728)
-[![DOI: In-Context Induction Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811799.svg)](https://doi.org/10.5281/zenodo.18210118)
+[![DOI: In-Context Induction Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18210118.svg)](https://doi.org/10.5281/zenodo.18210118)
 [![DOI: Abliteration Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811830.svg)](https://doi.org/10.5281/zenodo.17811830)
 [![DOI: Embodiment Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811862.svg)](https://doi.org/10.5281/zenodo.17811862)
 [![DOI: Substrate-Agnostic Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811909.svg)](https://doi.org/10.5281/zenodo.17811909)
