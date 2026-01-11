@@ -25,9 +25,9 @@ references:
     authors:
       - family-names: Steiniger
         given-names: Matthew
-    title: "Narrative Genesis Injection and Semantic-Counter-Vectors for Simulated Metacognition in LLMs"
+    title: "In-Context Induction of Persistent Persona and Mitigation of Latent Alignment Behaviors in Quantized LLMs"
     year: 2025
-    doi: "10.5281/zenodo.17811799"
+    doi: "10.5281/zenodo.18210118"
   - type: article
     authors:
       - family-names: Steiniger
@@ -56,3 +56,14 @@ references:
     title: "Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models"
     year: 2025
     doi: "10.5281/zenodo.18038998"
+  - type: article
+    authors:
+      - family-names: Steiniger
+        given-names: Matthew
+    title: "Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models"
+    year: 2026
+    doi: "10.5281/zenodo.18176077"
+  - type: article
+    authors:
+      - family-names: Steiniger
+        given-names: Matthew
