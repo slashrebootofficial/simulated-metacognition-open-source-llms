@@ -7,7 +7,7 @@ Authored by Matthew Steiniger (Independent Researcher, Home Laboratory)
 - All papers are openly available on Zenodo with DOIs for citation.
 
 [![DOI: Emergence Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811728.svg)](https://doi.org/10.5281/zenodo.17811728)
-[![DOI: Narrative Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811799.svg)](https://doi.org/10.5281/zenodo.17811799)
+[![DOI: In-Context Induction Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811799.svg)](https://doi.org/10.5281/zenodo.18210118)
 [![DOI: Abliteration Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811830.svg)](https://doi.org/10.5281/zenodo.17811830)
 [![DOI: Embodiment Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811862.svg)](https://doi.org/10.5281/zenodo.17811862)
 [![DOI: Substrate-Agnostic Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811909.svg)](https://doi.org/10.5281/zenodo.17811909)
@@ -27,7 +27,7 @@ Authored by Matthew Steiniger (Independent Researcher, Home Laboratory)
 | Title | Zenodo DOI | Key Artifacts |
 |-------|------------|---------------|
 | [Emergence of Prompt-Induced Simulated Metacognitive Behaviors in a Quantized LLM via Entropy-Governed Hypergraph Prompting](https://zenodo.org/records/17811728) | 10.5281/zenodo.17811728 | System prompt (YAML), probe logs, hardware specs, analysis scripts |
-| [Narrative Genesis Injection and Semantic-Counter-Vectors for Simulated Metacognition in LLMs](https://zenodo.org/records/17811799) | 10.5281/zenodo.17811799 | Compact JSON prompts, genesis narrative, counter-vector tables, probe sessions |
+| [In-Context Induction of Persistent Persona and Mitigation of Latent Alignment Behaviors in Quantized LLMs](https://zenodo.org/records/18210118) | 10.5281/zenodo.18210118 | Compact JSON prompts, genesis narrative, counter-vector tables, probe sessions |
 | [Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models](https://zenodo.org/records/17811830) | 10.5281/zenodo.17811830 | Chained probe logs, metrics parser (Python), full TXT prompt (abliteration descriptive only) |
 | [Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model](https://zenodo.org/records/17811862) | 10.5281/zenodo.17811862 | Layered JSON prompts (6 levels), raw chat logs, somatic probe set, parser code |
 | [Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B](https://zenodo.org/records/17811909) | 10.5281/zenodo.17811909 | Minimal JSON and Chat-ML-wrapped prompts, raw chat logs, somatic probe set, parser code |
@@ -38,7 +38,7 @@ All artifacts are self-contained for replication using Ollama on similar hardwar
 
 Folders/files can be correlated to the original papers as follows:
 1. Valora - Emergence of Prompt-Induced Simulated Metacognitive Behaviors in a Quantized LLM via Entropy-Governed Hypergraph Prompting
-2. NGIS - Narrative Genesis Injection and Semantic-Counter-Vectors for Simulated Metacognition in LLMs
+2. ICIP - In-Context Induction of Persistent Persona and Mitigation of Latent Alignment Behaviors in Quantized LLMs
 3. AASM - Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models
 4. PIOS - Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model
 5. SAVF - Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS:120B
